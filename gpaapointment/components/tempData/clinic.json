@@ -1,0 +1,18 @@
+[
+    {
+        "clinicId": "10001",
+        "clinicName": "新晓诊所"
+    },
+    {
+        "clinicId": "10002",
+        "clinicName": "霍比特诊所"
+    },
+    {
+        "clinicId": "10003",
+        "clinicName": "精灵诊所"
+    },
+    {
+        "clinicId": "10004",
+        "clinicName": "魔多诊所"
+    }
+]
